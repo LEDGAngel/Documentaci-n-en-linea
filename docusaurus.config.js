@@ -89,6 +89,9 @@ const config = {
           //   label: 'Tutorial',
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/Manual-Instalacion', label: 'Manual de Instalación', position: 'left'},
+          {to: '/Manual-Despliegue', label: 'Manual de Usuario', position: 'left'},
+          {to: '/Arquitectura', label: 'Arquitectura', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
