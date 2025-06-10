@@ -184,7 +184,7 @@ información del ciclo de vida de un proyecto a través de módulos lógicos int
 en el Product Backlog hasta la asignación de las mismas en un sprint backlog</p>
 
 <h4>4.4.1.1. Vista VD001 Diagrama de Clases</h4>
-<img src="Img/Clases.png" alt="Diagrama de Clases"/>
+<img src="img/Clases.png" alt="Diagrama de Clases"/>
 
 <div class="page-break"></div>
 
@@ -192,7 +192,7 @@ en el Product Backlog hasta la asignación de las mismas en un sprint backlog</p
 <p>El diagrama de clases representa las pestañas funcionales del software junto con su interacción con el usuario y los atributos que las pestañas funcionales del software poseen y los métodos o acciones que pueden realizar dentro del software, mostrando una perspectiva lógica de los elementos abstractos del sistema.</p>
 
 <h4>4.4.1.2. Vista VD002 Diagrama de Objetos</h4>
-<img src="Img/Objetos.png" alt="Diagrama de Objetos"/>
+<img src="img/Objetos.png" alt="Diagrama de Objetos"/>
 
 <div class="page-break"></div>
 
@@ -221,7 +221,7 @@ del proyecto se logra hacer funcional pantallas como panel, calendario o equipo.
 
 <div class="page-break"></div>
 
-<img src="Img/Actividad.png" alt="Diagrama de Actividad"/>
+<img src="img/Actividad.png" alt="Diagrama de Actividad"/>
 
 <p>El diagrama ilustra cómo un usuario interactúa con el sistema, desde la creación
 de su cuenta y el inicio de sesión, hasta la navegación y el uso de la barra lateral
@@ -235,7 +235,7 @@ manera modular y clara para facilitar el mantenimiento, escalabilidad y colabora
 equipo.</p>
 
 <h4>4.4.3.1. Vista VD004 Diagrama de arquitectura general</h4>
-<img src="Img/Arquitectura.png" alt="Diagrama de Arquitectura"/>
+<img src="img/Arquitectura.png" alt="Diagrama de Arquitectura"/>
 
 <div class="page-break"></div>
 
@@ -270,7 +270,7 @@ backend se comunica con ambas según el tipo de información requerida,
 asegurando una gestión de datos coherente y efectiva.</p>
 
 <h4>4.4.3.2. Vista VD005 Diagrama de Entidad Relación</h4>
-<img src="Img/ER.png" alt="Diagrama de Entidad Relación"/>
+<img src="img/ER.png" alt="Diagrama de Entidad Relación"/>
 
 <p>El diagrama muestra dos componentes principales del modelo de base de datos
 relacional del sistema: las tablas Historial y EncuestaFelicidad. Estas tablas están
@@ -291,7 +291,7 @@ máquina virtual desplegando los componentes del front end, se encarga de servir
 eficientemente al navegador del usuario final.</p>
 
 <h4>4.4.4.1. Vista VD006 Diagrama de Despliegue</h4>
-<img src="Img/Despliegue.png" alt="Diagrama de Despliegue"/>
+<img src="img/Despliegue.png" alt="Diagrama de Despliegue"/>
 
 <p>En este diagrama de despliegue se explica la forma en que la máquina virtual
 desplegada tiene el backend y frontend de la aplicación, la cual se conecta el
@@ -306,7 +306,7 @@ negocio y persistencia de datos. También muestra cómo se integran dos tipos de
 bases de datos en el backend para el proyecto, así como los servicios que se necesitan
 para el funcionamiento del mismo.</p>
 
-<img src="Img/Despliegue.png" alt="Diagrama de Despliegue"/>
+<img src="img/Despliegue.png" alt="Diagrama de Despliegue"/>
 
 <div class="page-break"></div>
 
@@ -316,14 +316,14 @@ para el funcionamiento del mismo.</p>
 
 <h4>4.4.5.1. Vista VD012 Diagrama de Casos de Uso</h4>
 
-<img src="Img/Casos de Uso.png" alt="Diagrama de Casos de Uso"/>
+<img src="img/Casos de Uso.png" alt="Diagrama de Casos de Uso"/>
 <p>Este diagrama muestra el uso del programa con actores como el usuario y el sistema realizando el sistema las acciones de guardado en la base de datos y la verificación del usuario y el usuario las acciones de modificación, creación y eliminación de objetos</p>
 
 <div class="page-break"></div>
 
 <h4>4.4.5.2. Vista VD013 Escenario de Uso</h4>
 
-<img src="Img/Escenerio de Uso.png" alt="Diagrama de Escenario"/>
+<img src="img/Escenerio de Uso.png" alt="Diagrama de Escenario"/>
 
 <p>Este diagrama representa el flujo específico que sigue un usuario autenticado para generar una épica mediante inteligencia artificial dentro del sistema Ágata Planner.</p>
 
