@@ -4,32 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Manual de Instalación',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        El manual de Instalacion es un manual que servira para el cliente y desarrolladores que quieran
+        instalar y configurar el sistema de manera efectiva.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Manual de Usuario',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        El manual de Usuario es un documento que proporciona información sobre
+        cómo utilizar el sistema de manera efectiva.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Arquitectura',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        La arquitectura es toda la información del software en la parte arquitectónica de la misma, mostrando como es que esta compuesta
+        la misma y siendo una ayuda para personas que quieran entender su funcionamiento.
       </>
     ),
   },
